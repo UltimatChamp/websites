@@ -8,23 +8,23 @@ author: orion
 summary: |
     Discover how NeoForge thrives through its powerful community-driven change process, the "Idea Drive." From sparking ideas on Discord to fostering innovation through Pull Requests, this structured approach ensures every member has a voice in shaping NeoForge's future. With maintainers acting as gatekeepers and a strong emphasis on maintainability and backwards compatibility, the NeoForged community embraces collective intelligence and celebrates innovation.
 description: |
-    Welcome to NeoForge, where the strength of our community lies at the core of our success. Embracing the power of collective intelligence, we have cultivated a structured and inclusive proposal process called the "Idea Drive." This community-driven initiative empowers every NeoForged member to actively participate in shaping the future of NeoForge. From the inception of ideas on our dedicated Discord channel, #neo-discussions, to the creation of tangible proofs of concepts (PoCs) published as Pull Requests (PRs) on GitHub, our process ensures that diverse perspectives and innovative solutions are celebrated.
+    Welcome to NeoForge, where the strength of our community lies at the core of our success. Embracing the power of collective intelligence, we have cultivated a structured and inclusive proposal process called the "Idea Drive." This community-driven initiative empowers every NeoForged member to actively participate in shaping the future of NeoForge. From the inception of ideas on our dedicated Discord channel, [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557), to the creation of tangible proofs of concepts (PoCs) published as Pull Requests (PRs) on GitHub, our process ensures that diverse perspectives and innovative solutions are celebrated.
 
     Maintainers, who transition from modders and users in earlier stages, act as guardians of the project's codebase in the PR review process. Their rigorous evaluation ensures that proposed changes meet the criteria of merit, implementation, maintainability, and requirements fulfillment. Additionally, the NeoForged community values long-term stability, holding backwards feature and functional compatibility in high regard. As we invite each member to engage actively in discussions and contribute their ideas, we unite in forging an extraordinary product that adapts to the dynamic needs of our vibrant and passionate community. NeoForge's future is shaped by the collective genius of its members, celebrating innovation and fostering a culture of collaboration.
 ---
 # Embracing Community Power: Proposing Changes to NeoForge
 
-NeoForge, owes its success not only to the developers and maintainers but also to the passionate and engaged NeoForged community. We believe that the power of collective intelligence is unparalleled, and that's why we are committed to fostering a culture where every member has a say in shaping the future of NeoForge. In this blog post, we will outline the structured process through which our community members can propose changes to NeoForge and actively contribute to its development. We call this process our "Idea Drive".
+NeoForge, owes its success not only to the developers and maintainers but also to the passionate and engaged NeoForged community. We believe that the power of collective intelligence is unparalleled, and that's why we are committed to fostering a culture where every member has a say in shaping the future of NeoForge. In this blog post, we will outline the structured process through which our community members can propose changes to NeoForge and actively contribute to its development.
 
 ## The NeoForge Community Idea Drive
 
-### Step 1: #neo-discussions on Discord
+### Step 1: [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557) on Discord
 
-The first step in the process involves sparking ideas and initiating discussions in the designated Discord channel, #neo-discussions. Here, community members can freely propose and deliberate the general concepts of changes they wish to see in NeoForge. This open forum allows diverse perspectives to emerge and encourages a healthy exchange of ideas.
+The first step in the process involves sparking ideas and initiating discussions in the designated Discord channel, [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557). Here, community members can freely propose and deliberate the general concepts of changes they wish to see in NeoForge. This open forum allows diverse perspectives to emerge and encourages a healthy exchange of ideas.
 
 ### Step 2: Targeted Discussion Threads
 
-Once an idea gains traction in #neo-discussions, moderators take the initiative to create targeted discussion threads. These threads are designed to guide and focus the community's efforts, helping to solidify and concretize the proposed ideas. Both maintainers and moderators participate in these threads in their personal capacity, providing valuable insights and guidance where necessary.
+Once an idea gains traction in [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557), moderators take the initiative to create targeted discussion threads. These threads are designed to guide and focus the community's efforts, helping to solidify and concretize the proposed ideas. Both maintainers and moderators participate in these threads in their personal capacity, providing valuable insights and guidance where necessary. However, their existence expresses no guarantee that an idea will be adopted. And the opinions expressed in those threads is of the people involved in their personal capacity as a modder, not as a NeoForged Organisation member, or even a maintainer. 
 
 ### Step 3: Developing Proofs of Concepts
 
@@ -46,7 +46,7 @@ The heart of our proposal process lies in step five, where the PRs undergo a tho
 
 ### Step 6: Consensus Building
 
-To accept a change, consensus among maintainers is required. This ensures that decisions are reached collectively and are in the best interest of the NeoForged community as a whole. It may involve discussions, revisions, and constructive debates until a single Pull Request implementation is agreed upon.
+To accept a change, consensus among maintainers is required. This ensures that decisions are reached collectively and are in the best interest of the NeoForged community as a whole. It may involve discussions, revisions, and constructive debates until a single Pull Request implementation is agreed upon. However, a unanimous decision is not need.
 
 
 ## Building a Solid Foundation: Key Insights into our Community-Driven Change Process
