@@ -12,12 +12,12 @@ description: This post describes the process we will follow in managing communit
 NeoForge and it's associated projects are a large community driven effort. This document outlines our process for managing the influx of ideas and suggestions for changes and enhancements.
 
 ## The NeoForge Change Process
-1) [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557) on Discord, generally this involves a thread dedicated to the idea.
+1) [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557) on Discord, generally this involves a thread dedicated to the idea
 2) Develop Proofs of Concept demonstrating key ideas
 3) Publishing Proofs of Concept on GitHub and generating a more formal proposal around the idea
-4) Rigorous proposal and PR Review Process
+4) Rigorous proposal and PR review process
 
-    Our team of maintainers evaluates each PR on several criteria, including:
+    The maintainers should be evaluating each PR on several criteria, including:
 
    - Merit: How impactful and valuable the proposed change is to the overall NeoForge project
    - Contents: How well the PR addresses the identified issue and aligns with the project's goals
