@@ -1,22 +1,20 @@
 ---
-title: "Embracing Community Power: Proposing Changes to NeoForge"
+title: "Proposing Changes to NeoForge"
 date: 2023-07-31T20:15:00+02:00
 draft: true
 categories:
 - News
 author: orion
-summary: |
-    Discover how NeoForge thrives through its powerful community-driven change process, the "Idea Drive." From sparking ideas on Discord to fostering innovation through Pull Requests, this structured approach ensures every member has a voice in shaping NeoForge's future. With maintainers acting as gatekeepers and a strong emphasis on maintainability and backwards compatibility, the NeoForged community embraces collective intelligence and celebrates innovation.
-description: |
-    Welcome to NeoForge, where the strength of our community lies at the core of our success. Embracing the power of collective intelligence, we have cultivated a structured and inclusive proposal process called the "Idea Drive." This community-driven initiative empowers every NeoForged member to actively participate in shaping the future of NeoForge. From the inception of ideas on our dedicated Discord channel, [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557), to the creation of tangible proofs of concepts (PoCs) published as Pull Requests (PRs) on GitHub, our process ensures that diverse perspectives and innovative solutions are celebrated.
-
-    Maintainers, who transition from modders and users in earlier stages, act as guardians of the project's codebase in the PR review process. Their rigorous evaluation ensures that proposed changes meet the criteria of merit, implementation, maintainability, and requirements fulfillment. Additionally, the NeoForged community values long-term stability, holding backwards feature and functional compatibility in high regard. As we invite each member to engage actively in discussions and contribute their ideas, we unite in forging an extraordinary product that adapts to the dynamic needs of our vibrant and passionate community. NeoForge's future is shaped by the collective genius of its members, celebrating innovation and fostering a culture of collaboration.
+summary:
+description:
 ---
-# Embracing Community Power: Proposing Changes to NeoForge
+# Proposing Changes to NeoForge
 
-NeoForge, owes its success not only to the developers and maintainers but also to the passionate and engaged NeoForged community. We believe that the power of collective intelligence is unparalleled, and that's why we are committed to fostering a culture where every member has a say in shaping the future of NeoForge. In this blog post, we will outline the structured process through which our community members can propose changes to NeoForge and actively contribute to its development.
+With our transition away from Minecraft Forge starting, a lot of new ideas and interests are bubbling up in the community.
+To not have that momentum die out, the proposed ideas need to be turned into actual Pull Requests, and this blog post describes the general concept.
 
-## The NeoForge Community Idea Drive
+## The NeoForge Change Process
+From a simple idea to a merged feature, several steps are taken to ensure that each idea reflects the communities needs:
 
 ### Step 1: [#brainstorming](https://discord.com/channels/313125603924639766/1105595318197825557) on Discord
 
@@ -54,7 +52,7 @@ To accept a change, consensus among maintainers is required. This ensures that d
 
 Throughout the idea drive change process, it is essential to understand the distinct roles that maintainers play. In their capacity as modders and users of NeoForge, maintainers actively participate in the earlier steps of the process, including discussions and the creation of targeted discussion threads. Their involvement at this stage is as valuable community members who contribute ideas and insights.
 
-However, from Step 5 onwards, maintainers transition into their role as gatekeepers of the project's codebase. At this point, they take on the responsibility of reviewing and evaluating the proposed Pull Requests (PRs) based on merit, implementation, maintainability, and fulfillment of requirements.
+However, from Step 5 onwards, maintainers transition into their role as stewards of the project's codebase. At this point, they take on the responsibility of reviewing and evaluating the proposed Pull Requests (PRs) based on merit, implementation, maintainability, and fulfillment of requirements.
 
 ### Encouraging Thoughtful Consideration:
 
@@ -63,8 +61,3 @@ The NeoForged community places great emphasis on ensuring the longevity and stab
 **Maintainability**: Proposed changes should be designed and implemented in a way that promotes maintainability. This involves adhering to coding standards, writing clean and well-documented code, and considering the long-term impact on the project's codebase.
 
 **Backwards Compatibility**: While we do not mandate API/ABI backwards compatibility, we highly value backwards feature and functional compatibility. Pull Requests that risk breaking existing features or functionalities face a significant challenge in being merged into NeoForge. The community acknowledges that maintaining compatibility is vital to the satisfaction and trust of our user base.
-
-
-## Unleashing the Power of the Community: Forging a Bright Future for NeoForge
-
-At NeoForged, we firmly believe in harnessing the collective power of our community to shape the destiny of NeoForge. Our structured and inclusive proposal process ensures that every member's voice is heard, ideas are cultivated, and innovations are celebrated. We extend a warm invitation to all NeoForged members to actively engage in discussions, propose changes, and play a vital role in the growth and success of NeoForge. Together, we forge an extraordinary product that continuously evolves to meet the diverse needs of our vibrant and passionate community. Let's create a future that is driven by the collective genius of NeoForged!
