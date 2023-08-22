@@ -34,4 +34,5 @@ Throughout the change process, it is essential to understand the distinct roles 
 When you are discussing your idea, please keep a keen eye on the following concepts:
 
 **Maintainability**: Proposed changes should be designed and implemented in a way that promotes maintainability. This involves adhering to coding standards, writing clean and well-documented code, and considering the long-term impact on the project's codebase.
+
 **Backwards Compatibility**: While we do not mandate API/ABI backwards compatibility, we highly value backwards feature and functional compatibility. Pull Requests that risk breaking existing features or functionalities face a significant challenge in being merged into NeoForge. The community acknowledges that maintaining compatibility is vital to the satisfaction and trust of our user base.
